@@ -99,13 +99,12 @@ const <span style="color:#DDA0DD">mi_utopia</span> = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChannelF-Oleo&layout=compact&theme=shades-of-purple&hide_border=true" width="400" />
+  <img src="https://metrics.lecoq.io/ChannelF-Oleo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSanto_Domingo" width="100%" alt="Métricas de Usuario" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChannelF-Oleo&theme=shades-of-purple&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChannelF-Oleo&theme=shades_of_purple" width="400" />
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DDA0DD&height=100&section=footer&text=La%20tecnología%20pensada%20desde%20la%20experiencia%20humana&fontSize=20&fontColor=ffffff" width="100%"/>
