@@ -98,9 +98,7 @@ const <span style="color:#DDA0DD">mi_utopia</span> = {
 
 <br/>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/ChannelF-Oleo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSanto_Domingo" width="100%" alt="Métricas de Usuario" />
-</div>
+<img src="https://metrics.lecoq.io/ChannelF-Oleo?template=repository&base=header&config.timezone=America%2FSanto_Domingo" width="100%" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChannelF-Oleo&theme=shades_of_purple" width="400" />
