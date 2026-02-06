@@ -99,12 +99,12 @@ const <span style="color:#DDA0DD">mi_utopia</span> = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChannelF-Oleo&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChannelF-Oleo&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChannelF-Oleo&layout=compact&theme=shades-of-purple&hide_border=true" width="400" />
 </div>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChannelF-Oleo&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChannelF-Oleo&theme=shades-of-purple&hide_border=true" />
+</div>
 
 
 <div align="center">
