@@ -99,9 +99,13 @@ const <span style="color:#DDA0DD">mi_utopia</span> = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChannelF-Oleo&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChannelF-Oleo&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChannelF-Oleo&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChannelF-Oleo&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="160" />
 </div>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChannelF-Oleo&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:DDA0DD&height=100&section=footer&text=La%20tecnología%20pensada%20desde%20la%20experiencia%20humana&fontSize=20&fontColor=ffffff" width="100%"/>
